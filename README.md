@@ -1,7 +1,7 @@
 <h1 align="center">Myshiak.su, [Anonymous]</h1>
 <h3 align="center">An anonymous russian FOSS developer</h3>
 
-- 🔭 I’m currently working on **cot (COlored caT)**
+- 🔭 I’m currently working on ***nothing***
 
 - 🌱 I’m currently learning **Nim, Django**
 
