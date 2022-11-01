@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nim, Django**
 
-- I’m looking to collaborate on [CPython](https://github.com/python/cpython)
+- I’m looking to collaborate on [Neovim](https://github.com/neovim/neovim)
 
 - 📫 How to reach me **Discord: Myshiak.su#1940**
 
